@@ -1,16 +1,16 @@
 {
   "home.shared_state_title": {
-    "message": "Khai báo state mọi nơi"
+    "message": "Khai báo trạng thái ở mọi nơi"
   },
   "home.shared_state_body": {
-    "message": "không cần phải chuyển đổi giữa {main} và các  files\n          khác. {br}\n          Place the code of your shared state where it belongs, be\n          it in a separate package or right next to the Widget that\n          needs it, without losing testability.",
+    "message": "không cần phải chuyển đổi giữa {main} và các  tệp\n          khác. {br}\n         Đặt mã nguồn của trạng thái dùng chung ở một nơi, Có thể\n          trong các thư mục riêng hoặc ngay bên cạnh các Widget\n          cần nó, nhưng không làm mất đi khả năng kiểm tra vận hành.",
     "description": "The homepage input placeholder"
   },
   "home.recompute_title": {
-    "message": "Recompute states/rebuild UI only when needed"
+    "message": "Cập nhập lại trạng thái/xây dựng lại UI chỉ khi cần thiết"
   },
   "home.recompute_body": {
-    "message": "We no longer have to sort/filter lists inside the {build}\n          method or have to resort to advanced cache mechanism. {br} {br}\n          With {Provider} and {families}, sort your lists or do HTTP\n          requests only when you {truly} need it."
+    "message": "Không cần phải sắp xếp/lọc mảng ở trong hàm {build}\n          hoặc phải sự dụng bộ nhớ đệm phức tạp {br} {br}\n          Với {Provider} và {families}, sắp xếp các mảng và gọi HTTP\n          chỉ khi bạn  {thật} cần nó."
   },
   "home.safe_read_title": {
     "message": "Safely read providers"
@@ -43,16 +43,16 @@
     "message": "Create/share/tests providers, with no dependency on Flutter. This\n          includes being able to listen to providers without a\n          {BuildContext}."
   },
   "home.tagline": {
-    "message": "A Reactive Caching and Data-binding Framework"
+    "message": "Thư viện để tạo bộ nhớ đệm tương tác và ràng buộc dữ liệu"
   },
   "home.get_started": {
-    "message": "Get Started"
+    "message": "Bắt đầu"
   },
   "home.create_provider": {
-    "message": "Create a Provider"
+    "message": "Khai báo một Provider"
   },
   "home.consume_provider": {
-    "message": "Consume the Provider"
+    "message": "Sử dụng dữ liệu từ Provider"
   },
   "theme.ErrorPageContent.title": {
     "message": "This page crashed.",
